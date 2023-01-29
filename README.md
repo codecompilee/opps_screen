@@ -1,16 +1,4 @@
-# flutter_ui
+# Opps Screen
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Shot - iPhone 12 Pro - 2023-01-29 at 19 25 05](https://user-images.githubusercontent.com/119125942/215331112-419819e4-9e33-4d0a-8c99-c51ac53dbc4b.png)
